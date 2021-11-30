@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    height: 100vh;
+}
+
+.speed-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 70px;
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 5px grey;
+}
+
+lable {
+    padding: 0 10px;
+}
